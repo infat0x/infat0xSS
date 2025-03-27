@@ -4,6 +4,9 @@
 ![Geckodriver](https://img.shields.io/badge/Geckodriver-Firefox-orange?logo=firefox)  
 ![XSS](https://img.shields.io/badge/Security-XSS-red?logo=security)  
 
+<video width="600" controls>
+  <source src="https://github.com/infat0x/infat0xSS/blob/master/media/exampleUsage.mp4" type="video/mp4">
+</video>
 
 
 
