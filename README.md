@@ -21,8 +21,8 @@ This tool, built with **Python, Bash, and Geckodriver**, checks if a website is 
 ### 1️⃣ Install Dependencies  
 ```bash
 cd /opt
-git clone https://github.com/infat0x/infat0xSS.git
-chmod +x infat0xss.sh
+sudo git clone https://github.com/infat0x/infat0xSS.git
+sudo chmod +x infat0xss.sh
 ```
 ##❗ If geckodriver doesn't work or is uninstalled: (IF NEED!)
 ```bash
