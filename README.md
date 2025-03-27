@@ -20,7 +20,7 @@ This tool, built with **Python, Bash, and Geckodriver**, checks if a website is 
 
 ### 1️⃣ Install Dependencies  
 ```bash
-cd /opt
+cd /tmp
 sudo git clone https://github.com/infat0x/infat0xSS.git
 sudo chmod +x infat0xss.sh
 ```
