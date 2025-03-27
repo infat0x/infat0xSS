@@ -28,10 +28,10 @@ sudo chmod +x infat0xss.sh
 ```bash
 wget https://github.com/mozilla/geckodriver/releases/latest/download/geckodriver-linux64.tar.gz
 tar -xvzf geckodriver-linux64.tar.gz
-sudo mv geckodriver /opt/infat0xSS/src/
+sudo mv geckodriver /tmp/infat0xSS/src/
 ```
 ## 📜 Usage
 ```bash
-cd /opt/infat0xSS/
+cd /tmp/infat0xSS/
 ./infat0xSS.sh
 ```
