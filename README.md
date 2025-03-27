@@ -1,12 +1,9 @@
 # 🔍 XSS Scanner  
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)  
-![Bash](https://img.shields.io/badge/Bash-Scripting-green?logo=gnu-bash)  
-![Geckodriver](https://img.shields.io/badge/Geckodriver-Firefox-orange?logo=firefox)  
-![XSS](https://img.shields.io/badge/Security-XSS-red?logo=security)  
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)  ![Bash](https://img.shields.io/badge/Bash-Scripting-green?logo=gnu-bash)  ![Geckodriver](https://img.shields.io/badge/Geckodriver-Firefox-orange?logo=firefox)  ![XSS](https://img.shields.io/badge/Security-XSS-red?logo=security)  
 
-<video width="600" controls>
-  <source src="[https://github.com/infat0x/infat0xSS/blob/master/media/exampleUsage.mp4](https://drive.google.com/file/d/1PxbbgsOCuLQZWacDx0zy9y31E_Z3kRdb/view?usp=sharing)" type="video/mp4">
-</video>
+
+
+[![Video](https://img.youtube.com/vi/Q-8WYZwp1ZE/maxresdefault.jpg)](https://www.youtube.com/embed/Q-8WYZwp1ZE?autoplay=1&mute=1)
 
 
 
