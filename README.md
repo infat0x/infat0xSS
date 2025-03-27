@@ -33,5 +33,5 @@ sudo mv geckodriver /opt/infat0xSS/src/
 ## 📜 Usage
 ```bash
 cd /opt/infat0xSS/
-./infat0xss.sh
+./infat0xSS.sh
 ```
