@@ -20,7 +20,7 @@ This tool, built with **Python, Bash, and Geckodriver**, checks if a website is 
 
 ### 1️⃣ Install Dependencies  
 ```bash
-cd /tmp
+cd /home/$USER/Downloads
 sudo git clone https://github.com/infat0x/infat0xSS.git
 sudo chmod +x infat0xss.sh
 ```
@@ -28,10 +28,10 @@ sudo chmod +x infat0xss.sh
 ```bash
 wget https://github.com/mozilla/geckodriver/releases/latest/download/geckodriver-linux64.tar.gz
 tar -xvzf geckodriver-linux64.tar.gz
-sudo mv geckodriver /tmp/infat0xSS/src/
+sudo mv geckodriver /home/$USER/Downloads/infat0xSS/src/
 ```
 ## 📜 Usage
 ```bash
-cd /tmp/infat0xSS/
+cd /home/$USER/Downloads
 ./infat0xSS.sh
 ```
