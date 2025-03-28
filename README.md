@@ -3,6 +3,7 @@
 
 
 ## Usage Video
+### ⚠️ This tool only works with Firefox 🌐 🦊 
 [![Video](https://img.youtube.com/vi/Q-8WYZwp1ZE/maxresdefault.jpg)](https://www.youtube.com/embed/Q-8WYZwp1ZE?autoplay=1&mute=1)
 
 
@@ -18,13 +19,13 @@ This tool, built with **Python, Bash, and Geckodriver**, checks if a website is 
 
 ## ⚙️ Installation  
 
-### 1️⃣ Install Dependencies  
+### 📥 Install Dependencies  
 ```bash
 cd /home/$USER/Downloads
 sudo git clone https://github.com/infat0x/infat0xSS.git
 sudo chmod +x infat0xss.sh
 ```
-##❗ If geckodriver doesn't work or is uninstalled: (IF NEED!)
+## ❗ If geckodriver doesn't work or is uninstalled: (IF NEED!)
 ```bash
 wget https://github.com/mozilla/geckodriver/releases/latest/download/geckodriver-linux64.tar.gz
 tar -xvzf geckodriver-linux64.tar.gz
